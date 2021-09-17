@@ -1,4 +1,4 @@
-#Configs
+# Configs
 
 Just a bunch of configs file for Debian.
 Include :
